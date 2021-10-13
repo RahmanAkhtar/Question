@@ -1,0 +1,11 @@
+p {
+   color: rgb(40, 42, 212);
+}
+body {
+    background: seagreen;
+}
+h1 {
+    color: slateblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+}
